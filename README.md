@@ -1,2 +1,11 @@
-# f22-cs312-asn1
-setup code for assignment 1
+# CS 312 Assignment 1
+# What's the point?
+
+[Assignment Sheet](http://moodle FIX ME)
+
+## Definitions
+
+## Plateau Schedule
+
+## Test Plan
+
